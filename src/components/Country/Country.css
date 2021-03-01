@@ -1,0 +1,12 @@
+.flagStyle {
+    width : 50px
+}
+.divStyle {
+    width : 90%;
+    height : 400px;
+    background-color : rgb(95, 95, 153);
+    border : 2px solid rgb(73, 209, 73);
+    border-radius : 8px;
+    margin : 20px auto;
+    line-height: 10px;
+}
